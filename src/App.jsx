@@ -43,7 +43,7 @@ function App() {
       
       
       <div className="hidden lg:block w-1/5">
-        <LeftAd />
+        //<LeftAd />
       </div>
       
      
@@ -62,7 +62,7 @@ function App() {
       
      
       <div className="hidden lg:block w-1/5">
-        <RightAd />
+        //<RightAd />
       </div>
     </div>
   );
